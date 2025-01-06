@@ -1,0 +1,2 @@
+This project focuses on analyzing customer behavior for a Mobile Snack Store using advanced data visualization techniques. The goal is to uncover actionable insights to assist stakeholders in making data-driven decisions. The analysis includes exploring gender, ethnicity, and income-level variations in the likelihood of using the Mobile Snack Store.
+Using Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly, as well as R, this project demonstrates the power of interactive and static visualizations in providing clarity to complex datasets.
